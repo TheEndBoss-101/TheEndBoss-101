@@ -1,4 +1,4 @@
-### Hi there 👋  
+# Hi there 👋  
 I am TheEndBoss_101  
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# How many times have this profile been Viewed?
+### How many times have this profile been Viewed?
 ![](https://komarev.com/ghpvc/?username=TheEndBoss-101&color=lightgrey&style=plastic)
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
