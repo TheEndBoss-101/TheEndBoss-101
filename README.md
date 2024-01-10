@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![stats](https://raw.githubusercontent.com/TheEndBoss-101/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 <!--
 **TheEndBoss-101/TheEndBoss-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
