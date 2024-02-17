@@ -6,7 +6,7 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark) " srcset="https://skillicons.dev/icons?i=js,html,css,php,mysql,lua,linux,discord&perline=5">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,php,mysql,lua,linux,discord&perline=5">
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,php,mysql,lua,linux,discord&perline=5&theme=light">
   <img alt="" src="">
 </picture>
